@@ -5,3 +5,6 @@ Metabolic pathways are fundamental maps in biochemistry that detail how molecule
 This work was finished two years ago, and later I shared to some professors. I registered the domain, http://directome.org and http://biomathematics.org in January, 2022. It is prepared for PNAS. I am introducing this work in YouTube and Quora, if you are interested, please visit: https://www.youtube.com/@Iobiomathematics or https://www.quora.com/profile/Tuobang-Li-1/answers . Also, the manuscript has been deposited in Zenodo, Tuobang Li. (2024). Infer metabolic momentum from moment differences of mass-weighted intensity distributions. Zenodo. https://doi.org/10.5281/zenodo.10616979 and https://www.researchgate.net/publication/377974502_Infer_metabolic_directions_from_moment_differences_of_mass-weighted_intensity_distributions
 
 Feel free to share it or contact tl@biomathematics.org, for more materials available by request. 
+
+view counts since 2024, February, 8th
+![Visitor Count](https://profile-counter.glitch.me/{tubanlee}.${MM}/count.svg)
